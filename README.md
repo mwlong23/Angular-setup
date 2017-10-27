@@ -3,3 +3,6 @@
 
 ## Then Run Bower
 `$ bower init`
+#followed by
+`bower init`
+`$ gulp build`
